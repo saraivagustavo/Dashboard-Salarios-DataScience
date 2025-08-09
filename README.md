@@ -1,6 +1,3 @@
-![Banner do Projeto](https://i.imgur.com/pnX3o9k.png)  
-<!-- Você pode trocar esse link por um banner feito no Canva ou Figma com o nome e tema do projeto -->
-
 # 📊 Dashboard de Salários em Data Science  
 
 > 💡 Porque números são legais… mas gráficos são muito mais divertidos.
