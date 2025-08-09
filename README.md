@@ -68,10 +68,8 @@ As colunas incluem:
 
 ## 💡 Ideias futuras 
 
-- Adicionar um **mapa interativo** para ver salários por país.
 - Criar um **ranking** dos cargos mais bem pagos.
 - Integrar com APIs para atualizar dados automaticamente.
-- Adicionar um modo “dark” 🌙.
 
 ---
 
